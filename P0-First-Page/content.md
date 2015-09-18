@@ -24,4 +24,4 @@ We have also created multiple playgrounds that each introduce you to an aspect o
 9. Classes and structs
 10. Initializers
 
-[Download the playgrounds](https://github.com/MakeSchool/Swift-Intro-Playgrounds/archive/v1.zip) and get started learning Swift!
+[Download the playgrounds](https://github.com/MakeSchool/Swift-Intro-Playgrounds/archive/v2.zip) and get started learning Swift!
